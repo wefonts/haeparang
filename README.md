@@ -1,5 +1,5 @@
 # haeparang
-영덕해파랑체
+영덕 해파랑체
 
 <pre>
 @font-face {
